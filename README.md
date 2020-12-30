@@ -76,7 +76,9 @@ Before running this script, first edit [this section](https://github.com/MhankBa
 | :------------: | :---------------------------------------------: |
 |       ✅        |   leave all group                   |
 |       ✅        |   clear all message                 |
-|       ✅        |   Broadcast                      |
+|       ✅        |   Broadcast 
+
+Dan masih banyak fitur yang tidak di tampilkan                     |
 
 
 ### Troubleshooting
