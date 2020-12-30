@@ -2,8 +2,7 @@
 
 
 ```bash
-> git clone https://github.com/BotR2/Rara
-Atau Downloads file nya langsung
+> Download file nya langsung
 ```
 
 ## Install the dependencies:
